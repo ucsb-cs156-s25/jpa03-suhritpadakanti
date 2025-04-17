@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-suhritpadakanti
 
 Running at: <https://jpa03-suhritpadakanti.dokku-16.cs.ucsb.edu>
 
